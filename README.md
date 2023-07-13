@@ -1,24 +1,13 @@
 # 💫 About Me:
+
+<!-- markdownlint-disable MD033 -->
 <table>
   <tr>
-    <td width="50%">
-      
-      🔭 I’m currently working on Open source projects<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning NodeJS  , Python , Rust<br>💬 Ask me about WHMCS, Laravel and PHP<br>
-      
-    </td>
-    <td width="50%"
-      
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bunyamin-akcay) 
-
-<br>
-    
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bunyamin) 
-      
-    </td>
+    <td style="width: 50%;">🔭 I’m currently working on Open source projects<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning NodeJS  , Python , Rust<br>💬 Ask me about WHMCS, Laravel and PHP<br></td>
+    <td style="width: 50%;">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bunyamin-akcay) <br>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bunyamin)</td>
   </tr>
 </table>
-
-
+<!-- markdownlint-enable MD033 -->
 
 # 💻 Tech Stack:
 
