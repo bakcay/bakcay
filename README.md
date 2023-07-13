@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td style="width: 50%;">🔭 I’m currently working on Open source projects<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning NodeJS  , Python , Rust<br>💬 Ask me about WHMCS, Laravel and PHP<br></td>
-    <td style="width: 50%;"><a href="https://linkedin.com/in/bunyamin-akcay"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <td style="width: 50%;"><a href="https://linkedin.com/in/bunyamin-akcay"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
         <a href="https://buymeacoffee.com/bunyamin"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
     </td>
   </tr>
